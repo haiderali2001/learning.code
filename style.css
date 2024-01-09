@@ -1,0 +1,49 @@
+body{
+    background-color: rgba(190,189,189);
+}
+.box {
+    display: flex;
+    justify-content: center;
+}
+.card{
+    width: 310px;
+    height: 463px;
+    background-color: white;
+    text-align: center;
+border-radius: 10px;
+font-family: 'poppins' , sans-serif;    
+margin-inline: 33px;
+
+}
+.img-div img{
+ width: 140px;
+height: 140px;
+border-radius: 46%;
+margin top: 20px;
+}
+.img-div{
+    background-color: rgba(0,119,255);
+    height: 190px;
+}
+.card p{
+    font-size: 13px;
+    color: rgba(107,107,107);
+}
+.box{
+width: 310px;
+    height: 463px;
+    background-color: white;
+    text-align: center;
+border-radius: 10px;
+font-family: 'poppins' , sans-serif;    
+margin-inline: 33px;
+}
+.card button{
+    width: 180px;
+    height: 40px;
+    background-color:rgba(0,119,255); 
+    border-radius: 4px;
+    color: white;
+    font size:25px;
+    border: none;
+}
